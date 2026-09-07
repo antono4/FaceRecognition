@@ -1,2 +1,30 @@
-Last updated: 2026-09-07 16:35:47 WIB
-Last updated: 2026-09-07 17:07:31 WIB
+# FaceRecognition
+
+
+
+## 📋 Overview
+
+This repository contains **83 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-07 17:09:00 WIB*
